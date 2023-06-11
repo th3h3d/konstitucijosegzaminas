@@ -1,2 +1,2 @@
-# konstitucijosegzaminas.github.io
-Lietuvos Konstitucijos egzaminas
+# konstitucijosegzaminas
+Lietuvos Konstitucijos egzaminas - Examination of the Constitution of Lithuania
