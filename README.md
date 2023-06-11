@@ -1,2 +1,2 @@
 # konstitucijosegzaminas
-Lietuvos Konstitucijos egzaminas - Examination of the Constitution of Lithuania
+Lietuvos Konstitucijos Egzaminas - Examination of the Constitution of Lithuania
